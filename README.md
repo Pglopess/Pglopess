@@ -22,27 +22,11 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Linguagens Mais Utilizadas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Sequência de Contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight)
-
----
-
-## 📈 Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight)
-
----
-
-## 🧠 Distribuição de Linguagens
-
-![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=donut&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ---
 
