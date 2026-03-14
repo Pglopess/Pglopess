@@ -20,13 +20,28 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
+- C  
+- Java  
+- Python  
+- JavaScript  
+
 ---
 
-## 📊 Linguagens Mais Utilizadas
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Sequência de Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight)
+
+---
+
+## 📈 Linguagens Mais Utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
 
 ---
 
