@@ -29,19 +29,19 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Sequência de Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight)
 
 ---
 
 ## 📈 Linguagens Mais Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight)
 
 ---
 
