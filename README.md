@@ -20,11 +20,6 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
-- C  
-- Java  
-- Python  
-- JavaScript  
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -42,6 +37,12 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 ## 📈 Linguagens Mais Utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Distribuição de Linguagens
+
+![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=donut&theme=tokyonight)
 
 ---
 
