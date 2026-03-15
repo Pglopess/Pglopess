@@ -1,8 +1,11 @@
 # 👨‍💻 Pedro Gustavo Lopes Thomas
 
-🎓 **7º semestre de Ciência da Computação — Universidade do Vale do Rio dos Sinos (UniSinos)**  
-📍 Brasil  
-📧 **Contato:** pg.lopesthomas@gmail.com  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Pglopess&color=0d1117&style=flat-square" alt="profile views" />
+</p>
+
+🎓 **7º semestre de Ciência da Computação — UniSinos**
+📍 Brasil &nbsp;|&nbsp; 📧 pg.lopesthomas@gmail.com
 
 ---
 
@@ -10,7 +13,7 @@
 
 Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Tenho experiência com diferentes linguagens de programação e estou sempre buscando evoluir minhas habilidades técnicas e minha capacidade de resolver problemas.
 
-> **"A verdadeira competência nasce da curiosidade constante: aprender hoje um pouco melhor do que ontem e transformar conhecimento em soluções."**
+> *"A verdadeira competência nasce da curiosidade constante: aprender hoje um pouco melhor do que ontem e transformar conhecimento em soluções."*
 
 ---
 
@@ -24,34 +27,33 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight&langs_count=8&count_private=true"/>
+</p>
 
 ---
 
 ## 🔥 Sequência de Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight)
-
----
-
-## 📈 Linguagens Mais Utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight&include_all_commits=true" />
+</p>
 
 ---
 
 ## 📚 Atualmente focado em
 
-- Desenvolvimento de software  
-- Estruturas de dados e algoritmos  
-- Projetos práticos para portfólio  
-- Aprimoramento constante em novas tecnologias  
+- 🖥️ Desenvolvimento de software
+- 🧩 Estruturas de dados e algoritmos
+- 🗂️ Projetos práticos para portfólio
+- 📖 Aprimoramento constante em novas tecnologias
 
 ---
 
 ## 📬 Contato
 
-📧 **Email:** pg.lopesthomas@gmail.com  
+[![Gmail](https://img.shields.io/badge/-pg.lopesthomas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pg.lopesthomas@gmail.com)
 
 ---
 
