@@ -28,8 +28,8 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight&langs_count=8&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight&langs_count=6&count_private=true&card_width=250"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight&include_all_commits=true" />
+  <img src="https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight" />
 </p>
 
 ---
