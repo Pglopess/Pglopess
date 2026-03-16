@@ -54,7 +54,7 @@ Sou estudante de **Ciência da Computação** com foco em **Python**, **ciência
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/-pg.lopesthomas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pg.lopesthomas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-Pedro%20Gustavo%20Thomas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-gustavo-thomas-5935392b7)
 
 ---
 
