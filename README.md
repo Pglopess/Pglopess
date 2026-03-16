@@ -1,5 +1,4 @@
 # 👨‍💻 Pedro Gustavo Lopes Thomas
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Pglopess&color=0d1117&style=flat-square" alt="profile views" />
 </p>
@@ -11,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Tenho experiência com diferentes linguagens de programação e estou sempre buscando evoluir minhas habilidades técnicas e minha capacidade de resolver problemas.
+Sou estudante de **Ciência da Computação** com foco em **Python**, **ciência de dados** e **desenvolvimento backend**. Estou construindo uma base sólida que conecta as duas áreas — da análise e modelagem de dados até a exposição de soluções via APIs.
 
 > *"A verdadeira competência nasce da curiosidade constante: aprender hoje um pouco melhor do que ontem e transformar conhecimento em soluções."*
 
@@ -44,17 +43,19 @@ Sou estudante de **Ciência da Computação** apaixonado por tecnologia, desenvo
 
 ## 📚 Atualmente focado em
 
-- 🖥️ Desenvolvimento de software
-- 🧩 Estruturas de dados e algoritmos
-- 🗂️ Projetos práticos para portfólio
-- 📖 Aprimoramento constante em novas tecnologias
+- 🐍 Python para dados e backend
+- 📊 Análise de dados com Pandas, NumPy e visualização
+- 🤖 Machine Learning com scikit-learn
+- ⚡ APIs com FastAPI
+- 🗂️ Projetos práticos que conectam dados e desenvolvimento
 
 ---
 
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/-pg.lopesthomas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pg.lopesthomas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 
 ---
 
-⚡ *Sempre aberto a aprender, colaborar e transformar ideias em código.*
+⚡ *Aberto a oportunidades de estágio e primeira vaga em dados ou desenvolvimento backend com Python.*
