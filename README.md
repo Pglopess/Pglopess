@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação** com foco em **Python**, **ciência
 ## 💻 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,fastapi,pandas" />
 </p>
 
 ---
@@ -27,8 +27,8 @@ Sou estudante de **Ciência da Computação** com foco em **Python**, **ciência
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight&langs_count=6&count_private=true&card_width=250"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight&langs_count=6&count_private=true&card_width=250&cache_seconds=1800"/>
 </p>
 
 ---
