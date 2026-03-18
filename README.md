@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação** com foco em **Python**, **ciência
 ## 💻 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,fastapi,pandas" />
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
 </p>
 
 ---
