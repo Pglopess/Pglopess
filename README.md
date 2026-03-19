@@ -3,8 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=Pglopess&color=0d1117&style=flat-square" alt="profile views" />
 </p>
 
-🎓 **7º semestre de Ciência da Computação — UniSinos**
-📍 Brasil &nbsp;|&nbsp; 📧 pg.lopesthomas@gmail.com
+🎓 **7º semestre de Ciência da Computação — Unisinos**
+📍 Porto Alegre, Brasil &nbsp;|&nbsp; 📧 pg.lopesthomas@gmail.com
 
 ---
 
