@@ -1,6 +1,6 @@
 # Pedro Gustavo Lopes Thomas
 
-Estudante de **Ciência da Computação** no 7º semestre pela **UniSinos**, com foco em Python, ciência de dados e desenvolvimento backend. Estou construindo uma base sólida que conecta análise e modelagem de dados à exposição de soluções via APIs.
+Estudante de **Ciência da Computação** no 7º semestre pela **Unisinos**, com foco em Python, ciência de dados e desenvolvimento backend. Estou construindo uma base sólida que conecta análise e modelagem de dados à exposição de soluções via APIs.
 
 Atualmente aprofundando conhecimentos em Machine Learning com scikit-learn, visualização de dados e desenvolvimento de APIs com FastAPI.
 
@@ -33,7 +33,7 @@ Atualmente aprofundando conhecimentos em Machine Learning com scikit-learn, visu
 
 **Bacharelado em Ciência da Computação**  
 Universidade do Vale do Rio dos Sinos — UniSinos  
-📍 Porto Alegre, RS · 2022 – presente (7º semestre)
+📍 Porto Alegre, RS · 2023 – presente (7º semestre)
 
 ---
 
