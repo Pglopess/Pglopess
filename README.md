@@ -6,7 +6,7 @@ Atualmente aprofundando conhecimentos em Machine Learning com scikit-learn, visu
 
 ---
 
-##  Conhecimentos
+## Conhecimentos
 
 **Linguagens**
 
@@ -29,7 +29,7 @@ Atualmente aprofundando conhecimentos em Machine Learning com scikit-learn, visu
 
 ---
 
-##  Formação Acadêmica
+## Formação Acadêmica
 
 **Bacharelado em Ciência da Computação**  
 Universidade do Vale do Rio dos Sinos — UniSinos  
@@ -40,13 +40,12 @@ Universidade do Vale do Rio dos Sinos — UniSinos
 ## Estatísticas
 
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=6&count_private=true" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=6&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pglopess&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff)
-
+<div align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=Pglopess&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" />
 </div>
 
 ---
