@@ -1,57 +1,57 @@
-# 👨‍💻 Pedro Gustavo Lopes Thomas
+# Pedro Gustavo Lopes Thomas
 
-🎓 **7º semestre de Ciência da Computação — Unisinos**
-📍 Porto Alegre, Brasil &nbsp;|&nbsp; 📧 pg.lopesthomas@gmail.com
+Estudante de **Ciência da Computação** no 7º semestre pela **UniSinos**, com foco em Python, ciência de dados e desenvolvimento backend. Estou construindo uma base sólida que conecta análise e modelagem de dados à exposição de soluções via APIs.
 
----
-
-##  Sobre mim
-
-Sou estudante de **Ciência da Computação** com foco em **Python**, **ciência de dados** e **desenvolvimento backend**. Estou construindo uma base sólida que conecta as duas áreas — da análise e modelagem de dados até a exposição de soluções via APIs.
-
-> *"A verdadeira competência nasce da curiosidade constante: aprender hoje um pouco melhor do que ontem e transformar conhecimento em soluções."*
+Atualmente aprofundando conhecimentos em Machine Learning com scikit-learn, visualização de dados e desenvolvimento de APIs com FastAPI.
 
 ---
 
-##  Linguagens e Tecnologias
+##  Conhecimentos
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
-</p>
+**Linguagens**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-##  Estatísticas do GitHub
+**Dados & ML**
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=tokyonight&langs_count=6&count_private=true&card_width=250&cache_seconds=1800"/>
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
----
+**Backend & Ferramentas**
 
-##  Sequência de Contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pglopess&theme=tokyonight" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-##  Atualmente focado em
+##  Formação Acadêmica
 
--  Python para dados e backend
--  Análise de dados com Pandas, NumPy e visualização
--  Machine Learning com scikit-learn
--  APIs com FastAPI
--  Projetos práticos que conectam dados e desenvolvimento
+**Bacharelado em Ciência da Computação**  
+Universidade do Vale do Rio dos Sinos — UniSinos  
+📍 Porto Alegre, RS · 2022 – presente (7º semestre)
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pglopess&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=6&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pglopess&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff)
+
+</div>
 
 ---
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/-pg.lopesthomas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pg.lopesthomas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Pedro%20Gustavo%20Thomas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-gustavo-thomas-5935392b7)
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-gustavo-thomas-5935392b7)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pg.lopesthomas@gmail.com)
