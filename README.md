@@ -1,6 +1,6 @@
 # Pedro Gustavo Lopes Thomas
 
-Estudante de **Ciência da Computação** no 7º semestre pela **Unisinos**, com foco em Python, ciência de dados e desenvolvimento fullstack. Estou construindo uma base sólida que conecta análise e modelagem de dados à exposição de soluções via APIs.
+Estudante de Ciência da Computação no 7º semestre pela Unisinos, com foco em Python, ciência de dados e desenvolvimento fullstack. Estou construindo uma base sólida que conecta análise e modelagem de dados à exposição de soluções via APIs.
 
 Atualmente aprofundando conhecimentos em Machine Learning com scikit-learn, visualização de dados e desenvolvimento de APIs com FastAPI.
 
