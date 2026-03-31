@@ -40,10 +40,6 @@ Universidade do Vale do Rio dos Sinos — UniSinos
 ## Estatísticas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pglopess&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=6&count_private=true" />
-</div>
-
-<div align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=Pglopess&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff" />
 </div>
 
