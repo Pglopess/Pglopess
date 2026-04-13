@@ -1,6 +1,6 @@
 # Pedro Thomas
 
-Estudante de Ciência da Computação (7º semestre, Unisinos) com foco ciência de dados e desenvolvimento fullstack. Construindo soluções que conectam análise e modelagem de dados à exposição via APIs.
+Estudante de Ciência da Computação (7º semestre, Unisinos) com foco em ciência de dados e desenvolvimento fullstack. Construindo soluções que conectam análise e modelagem de dados à exposição via APIs.
 
 Atualmente aprofundando: **Machine Learning com scikit-learn · FastAPI · Visualização de dados**
 
