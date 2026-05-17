@@ -2,7 +2,6 @@
 
 Estudante de Ciência da Computação (7º semestre, Unisinos) com foco em ciência de dados e desenvolvimento fullstack. 
 
-Atualmente aprofundando: Machine Learning com scikit-learn · FastAPI · Visualização de dados
 
 ---
 
